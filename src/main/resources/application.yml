@@ -1,0 +1,4 @@
+logging.level:
+  com.accenture.acntracker: DEBUG
+  org.springframework: INFO
+server.port: 25000
